@@ -1,2 +1,2 @@
-# Front-end-mentor-challenge-1
-Front end mentor challenge version 1.0
+# Pricing-card-challenge
+Pricing card challenge by Front end mentor version 1.0
