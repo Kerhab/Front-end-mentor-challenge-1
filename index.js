@@ -27,31 +27,7 @@
 //              `.       ,   _,' 
 //                `-.___.---' 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 */
+function alertme() {
+  alert('badaBOOOOM! Something professional appeard! lol');
+}
